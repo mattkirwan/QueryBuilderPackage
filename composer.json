@@ -1,0 +1,16 @@
+{
+	"name": "via/querybuilder",
+	"description": "A really simple query builder.",
+	"authors": [
+		{
+			"name": "Matt Kirwan",
+			"homepage": "http://www.viacreative.co.uk/",
+			"role": "developer"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"Via\\QueryBuilder\\": "src/"
+		}
+	}
+}
